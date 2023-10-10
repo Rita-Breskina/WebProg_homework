@@ -1,0 +1,230 @@
+body {
+    margin: 0;
+}
+
+.first_block {
+    background-image: url(images/main_bg.jpg );
+    width: 1922px;
+    height: 802px;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin-bottom: 0;
+}
+
+
+.intensive {
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+.owl_logo {
+    padding-top: 39px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 83px;
+}
+
+.create {
+    font-family: 'Roboto', sans-serif ;
+    font-size: 41px;
+    font-weight: 900;
+    color: #F9BF3B;
+    text-align: center;
+}
+
+
+.container {
+    max-width: 1140px;
+    margin: 0px 391px;
+}
+
+
+.simple {
+    display: flex;
+    justify-content: space-between;
+}
+
+.line1 {
+    width: 292px;
+    height: 2px;
+    color: #FFF;
+    background-color: #FFF;
+    margin-top: 45px;
+}
+
+.line2 {
+    width: 292px;
+    height: 2px;
+    color: #FFF;
+    background-color: #FFF;
+    margin-top: 45px;
+}
+
+.this_is_simple {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    font-weight: 900;
+    color: #FFF;
+    text-align: center;
+}
+
+.difficult {
+    color: #F9BF3B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 41px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 0;
+}
+
+.everyday {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+    text-align: center;
+
+}
+
+.for_free {
+    color: #F9BF3B;
+    font-weight: 700;
+}
+
+.button {
+    padding-left: 430px;
+    padding-top: 30px;
+    align-items: center;
+}
+.signup-btn {
+    background-color: #2798B9; 
+    width: 313px;
+    height: 72px;
+    text-align: center;
+    color: #FFF;
+    font-family: Roboto Condensed;
+    font-size: 21px;
+    padding: 14px 28px;
+    text-decoration: none;
+
+    transition: background 0.3s linear;
+}
+
+.signup-btn:hover {
+    background-color: #157390; 
+}
+
+.more {
+    padding-left: 450px;
+    padding-top: 60px;
+}
+
+.learn-more {
+    width: 313px;
+    height: 72px;
+    text-align: center;
+    color: #FFF;
+    font-family: Roboto Condensed;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 14px 28px;
+    text-decoration: none;
+}
+
+.learn-more:hover {
+    border-bottom: 2px double rgb(191, 191, 191);
+}
+
+.second_block {
+    width: 1922px;
+    height: 607px;
+    background: linear-gradient(white, #EFEFEF);
+    position: relative;
+
+}
+
+.wait {
+    color: #252525;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.yellow-line {
+    width: 200px;
+    height: 4px;
+    background-color: #F9BF3B;
+    margin-left: 477px;
+}
+
+.two_free {
+    color: #4A4A4A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.card {
+    width: 350px;
+    height: 350px;
+    font-family: 'Roboto', sans-serif;
+    color: #4A4A4A;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.card-image {
+    display: flex;
+    justify-content: center;
+}
+
+.card-text {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cards-holder {
+    display: flex;
+    justify-content: space-between;
+}
+
+.third_block {
+    background-image: url(images/woman_bg.png);
+    width: 1922px;
+    height: 552px;
+    background-repeat: no-repeat ;
+    background-position: left 0 bottom 0;
+
+}
+
+.optimization_title {
+    color: #299CBD;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    padding-top: 180px;
+    margin-left: 323px;
+}
+
+.optimization_text {
+    color: #4A4A4A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-left: 323px;
+}
+
+.teach {
+    font-weight: 700;
+}
